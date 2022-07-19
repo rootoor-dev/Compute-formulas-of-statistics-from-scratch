@@ -111,7 +111,7 @@ Donné par la formule : **z = (x − µ)/σ**
 - généralisation de la notion de médiane (division en 2 parties égales d'une distribution ordonnée dans l'ordre croissant)
 - quartiles (division par 4)
 - déciles (division par 10)
-- centiles (division par 100), encore appelé centiles)
+- centiles (division par 100), encore appelé percentiles
 - Les divisions donnent des parties du même effectif.
 
 On parlera ainsi du « centile 90 » pour indiquer la valeur séparant les premiers 90 % de la population des 10 % restants. Ainsi, dans une population de jeunes enfants, un enfant dont la taille est au-delà du centile 90, ou en décà du centile 10, peut être l'objet d'un suivi particulier.
