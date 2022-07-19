@@ -87,7 +87,7 @@ Valeurs extrêmement petites ou extrêmement grandes dans une distribution.
 Remarque : Si p% de n (observations) n'est pas un entier, plusieurs algorithmes (informatiques) existent pour interpoler à chaque extrémité de la distribution et pour déterminer xtr(p).
 
 ## Déviation absolue
-- Nous comparons toutes les valeurs à une sorte de mesure de la tendance centrale (habituellement la moyenne). Nous pouvons donc voir comment les données dans leur ensemble diffèrent ou s'écartent de la moyenne.
+- Nous comparons toutes les valeurs à une sorte de mesure de la tendance centrale (habituellement la moyenne). Nous pouvons donc voir comment les données dans leur ensemble diffèrent ou s'écartent de cette mesure (la moyenne).
 
 ## Somme des carrés
 - somme des carrés des écarts à la moyenne
