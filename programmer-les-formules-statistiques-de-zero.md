@@ -124,12 +124,12 @@ On parlera ainsi du « centile 90 » pour indiquer la valeur séparant les premi
 Ces Q divisent la distribution en trois parties égales.
 
 ## Centiles
-Pour un nombre entier **P**, où **1 ≤ P ≤ 99**, le **Pe centile** d'une distribution est une valeur telle que *P % des données se situent au niveau ou en dessous*. Ainsi, *il y a 99 percentiles*.
+Pour un nombre entier **P**, où **1 ≤ P ≤ 99**, le **P-è centile** d'une distribution est une valeur telle que *P % des données se situent au-dessus ou en-dessous*. Ainsi, *il y a 99 percentiles*.
 **Les emplacements des percentiles** sont trouvés à l'aide de la formule : LP = (n + 1)P/100
 
-- Q1 = centile 25%
-- Q2 = centile 50%
-- Q3 = centile 75%
+- Q1 = centile à 25% ou 25è centile
+- Q2 = centile à 50% ou 50è centile
+- Q3 = centile à 75% ou 75è centile
 
 ## intervalle interquartile
 la distance entre Q1 et Q3
