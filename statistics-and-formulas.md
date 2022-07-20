@@ -1,6 +1,6 @@
 # STATISTICS AND COMPUTATION
 
-## Measures of trend
+## Measures of tendancy
 Estimate where a distribution falls. To which value a distribution is tending.
 
 
@@ -225,7 +225,7 @@ use only MODE
 # SKEWNESS
 if the skewness is BETWEEN -2 and +2, there are NOT extremes in the data. If the
 skewness is less than -2 or greater than +2, there ARE extremes in the data.
-**When there are extremes in the data, the mean is a worse measure of trend. So don't use it!**
+**When there are extremes in the data, the mean is a worse measure of tendancy. So don't use it!**
 
 ```
 
