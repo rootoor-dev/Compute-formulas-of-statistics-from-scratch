@@ -29,7 +29,7 @@ Obtained through:
 
 # Definitions
 
-##Mean
+## Mean
 - the arithmetic average of the values in a dataset
 - can be affected by extreme values since it uses the exact value of each data
 - more accurate measure of central tendency as it takes the individual scores into account
