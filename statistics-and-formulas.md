@@ -12,7 +12,7 @@ etc
 *Variability* measures the **dispersion** or **similarity** among scores and tell us about the variety of the scores in a distribution.
 
 Several measures of variability such as
-- tidy
+- range
 - sum of squares: SUM(Xi-mean)
 - variance
 - standard deviation.
@@ -73,7 +73,7 @@ points, meaning the two center values should be added together and divided by 2.
 - Sometimes there is no mode, two modes, or more than 2 modes
 - used to know the most common value in a distribution.
 
-## Tidy
+## range
 - The highest value or data point minus the lowest value
 - provides information about the area a distribution covers, BUT does not say anything about individual values.
 - A phenomenon is said to have a “strong dynamic” when the extent (or dispersion) is large.
